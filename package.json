@@ -1,0 +1,24 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "my portfoilo",
+  "main": "index.js",
+  "dependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-responsive-images": "^0.1.9"
+  },
+  "devDependencies": {
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-mkdir": "^1.0.0",
+    "grunt-responsive-images": "^0.1.9",
+    "load-grunt-tasks": "^3.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jesse",
+  "license": "ISC"
+}
